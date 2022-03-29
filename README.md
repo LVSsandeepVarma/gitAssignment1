@@ -8,5 +8,5 @@ Assignment for practicing git commands
 4.**To commit the changes**      ----------->  git commit -m `"Commit message in quotes"` <br>
 5.**To check the status**        ----------->  git status  <br>
 6.**Push your code to the git repository** ->  git push `remote` `branch`  or git push <br>
-7.**Create a pull request**
+
 
